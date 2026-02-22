@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://valdostaplumbingco.com/sitemap.xml
